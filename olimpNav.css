@@ -30,10 +30,7 @@ h2 {
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
-  
-
 }
-
 
 p {
   font-size: 1.1em;
@@ -45,7 +42,6 @@ header {
   background: var(--gradiente-verde);
   color: var(--cor-do-texto-contrastante);
   text-align: center;
-  
 }
 
 section {
@@ -59,7 +55,6 @@ article {
   width: 20rem;
   margin: 2rem;
 }
-
 
 article:hover {
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
@@ -113,7 +108,6 @@ footer p {
   width: 10%;
 }
 
-
 @media screen and (min-width: 576px) {
   section {
     display: grid;
@@ -159,8 +153,6 @@ nav a {
   background-color: #08d45a;
   color: #fff;
 }
-
-  
 
 ul {
   display: flex;
@@ -222,8 +214,6 @@ ul {
 .services:hover .dropdown {
   display: none;
 }
-
-
 
 @media (max-width: 768px) {
   .menu {
